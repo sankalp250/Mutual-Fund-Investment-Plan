@@ -1,0 +1,31 @@
+# --- Python ---
+# Byte-compiled / optimized / C-extension files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environment ---
+# Exclude the virtual environment folder entirely
+/venv/
+/env/
+.venv/
+.env/
+
+# --- Streamlit ---
+# Exclude Streamlit's cache and configuration folder
+/.streamlit/
+
+# --- Secrets (Best Practice) ---
+# Ignore all files with a .env extension, commonly used for secrets
+*.env
+
+# --- IDE / Editor specific ---
+# VS Code
+.vscode/
+
+# --- OS-specific ---
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
