@@ -26,7 +26,7 @@ To run this application on your local machine, follow these steps:
 
 1.  **Clone the repository (or ensure you have the project folder):**
     ```bash
-    git clone [your-repo-link]
+    git clone https://github.com/sankalp250/Mutual-Fund-Investment-Plan.git
     cd mutual_fund_portfolio_analyzer
     ```
 
