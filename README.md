@@ -62,8 +62,8 @@ To run this application on your local machine, follow these steps:
 4.  **Run the Streamlit application:**
     ```bash
     streamlit run app.py
-    https://mutual-fund-investment-plan-lsecmkkewmmyszx8rw2evs.streamlit.app/
     ```
+    https://mutual-fund-investment-plan-lsecmkkewmmyszx8rw2evs.streamlit.app/
     Your web browser will automatically open with the running application.
 
 ## 🛠️ Technologies Used
